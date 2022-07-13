@@ -1,5 +1,3 @@
-# Max-Heap data structure in Python
-
 def max(arr, j, i):
     largest = i
     l = 2 * i + 1
